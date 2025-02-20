@@ -6,6 +6,8 @@ pipeline {
 //    dockerImage = ''
 //  }
 
+//testing
+
   agent any 
 
   stages {
